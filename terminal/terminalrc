@@ -23,7 +23,7 @@ FontName=Inconsolata Medium 15
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBordersDefault=TRUE
-MiscCursorBlinks=FALSE
+MiscCursorBlinks=TRUE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
 MiscDefaultGeometry=80x24
 MiscInheritGeometry=FALSE
@@ -39,4 +39,3 @@ MiscHighlightUrls=TRUE
 TitleMode=TERMINAL_TITLE_HIDE
 ShortcutsNoMenukey=TRUE
 ShortcutsNoMnemonics=TRUE
-
